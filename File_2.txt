@@ -1,0 +1,1 @@
+Contenido del archivo 2 de la nueva rama feature/req-001
