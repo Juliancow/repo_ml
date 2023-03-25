@@ -106,3 +106,4 @@ dist
 # Terraform Folder
 .terraform
 *.tfstate
+*.lock.hcl
